@@ -12,6 +12,11 @@
   border-radius: 10px;
   background-color: #d4f0eb;
 }
+.searchInput:hover,
+.searchInput:focus {
+  color: #212121;
+  background-color: #27b8ad;
+}
 p {
   display: inline-block;
   text-align: left;

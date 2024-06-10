@@ -28,10 +28,18 @@
   transform: translateY(-50%);
   background-color: #d4f0eb;
   border: none;
+  font-size: 14px;
   border-radius: 10px;
 }
 .button:hover,
 .button:focus {
   color: #212121;
   background-color: #27b8ad;
+   color: red;
+
 }
+
+.icon {
+    margin-right: 8px;
+    color: #27b8ad;
+  }
